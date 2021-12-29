@@ -22,6 +22,6 @@ This projects aims to provide a free open-source educational system for students
 
 # Contact:
 `
-Email: h3n.rasouli@gmail.com
-Tel: +98-990-966-9106
+1. **Email**: h3n.rasouli@gmail.com
+2. **Tel**: +98-990-966-9106
 `
