@@ -27,6 +27,6 @@ After running this command, you should see a new file in your home directory `/h
 
 ![image](https://user-images.githubusercontent.com/17006122/147692247-2d04f152-edf9-4fc1-9331-6fa6cc416929.png)
 
-Enjoy the tool for your image conversion and modification 
+Enjoy the tool for your image conversion and modification. For more details see: https://legacy.imagemagick.org/Usage/anim_basics/ 
 
 **Good Luck**
