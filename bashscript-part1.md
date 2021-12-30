@@ -1,6 +1,6 @@
 # This is a tutorial to learn Bash scripting in Linux by H. Rasouli. 
 ******************************************************************
-> December 27, 2021   ¯\_( ͡👁️ ͜ʖ ͡👁️)_/¯
+> December 27, 2021   ( ͡👁️ ͜ʖ ͡👁️)
 ******************************************************************
 > You can follow me in Twitter to see more updates and notes about bioinformatics tools (https://twitter.com/H3nRasouli).
 ******************************************************************
