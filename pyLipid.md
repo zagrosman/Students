@@ -39,3 +39,9 @@ To check the reference tutorial: https://pylipid.readthedocs.io/en/master/tutori
 
 
 ![image](https://user-images.githubusercontent.com/17006122/149529331-e0b0b5dc-5361-4997-a803-529fbedd6e0d.png)
+
+
+To check the source code and related sample data: https://github.com/zagrosman/PyLipID
+
+![image](https://user-images.githubusercontent.com/17006122/149529611-40909458-41c1-4f66-aa74-55529865c0c0.png)
+
