@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/17006122/156988869-f6f5e426-efb7-468f-bbf0-e52662feb3d7.png)
 
-## This is a simple installation guide to download and install Gromacs-2019.5 on HPC syestem by H. Rasouli
+## This is a simple installation guide to download and install Gromacs-2019.5 on HPC system by H. Rasouli
 ********************************************************************************************
 GROMACS is a molecular dynamics package mainly designed for simulations of proteins, lipids, and nucleic acids. 
 It was originally developed in the Biophysical Chemistry department of University of Groningen, and is now maintained by contributors in universities and research centers worldwide.
