@@ -106,5 +106,9 @@ Again exit from build-normal path and try to create another directory
 9) add the path to bashrc file and type "gmx" in terminal
 ````
 
+![image](https://user-images.githubusercontent.com/17006122/156990962-d9dbb935-6f51-4244-9d19-bcf006815122.png)
+![image](https://user-images.githubusercontent.com/17006122/156991029-93456c1b-0db6-42fd-a3c8-179d90451312.png)
+![image](https://user-images.githubusercontent.com/17006122/156991073-b7d29a76-e4f2-4a7e-b548-cceba32d3383.png)
+
 
 
