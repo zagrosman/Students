@@ -97,21 +97,29 @@ Again exit from build-normal path and try to create another directory
 ````
 1) cd ..
 ````
+````
 2) mkdir build-mdrun-only
+````
 ````
 3) cd mkdir build-mdrun-only
 ````
+````
 4) cmake .. -DGMX_MPI=ON -DGMX_GPU=OFF -DGMX_BUILD_MDRUN_ONLY=ON -DCMAKE_INSTALL_PREFIX= **gromacs "bulid" (section 9 in step 1) foler path here something like "/root/gromacs-2019.5/build"**
 ````
+````
 5) make -j 16
+````
 ````
 6) cd ..
 ````
 7) cd /to/your/unpacked/regressiontests-2019.5
 ````
+
+````
 8) source /your/installation/prefix/here/bin/GMXRC ### for this section you should add your build installation folder to path  something like /gromacs/build/bin/GMXRC
 ````
 
+````
 9) add the path to bashrc file and type "gmx" in terminal
 
 ````
