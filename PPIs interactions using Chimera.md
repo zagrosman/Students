@@ -25,3 +25,21 @@ c. Select **Color H-bonds not meeting precise criteria differently:** You can cl
 
 ![image](https://user-images.githubusercontent.com/17006122/205600854-a61a0f28-ed91-41f1-bd7e-9d365cf2893b.png)
 
+
+d. Select **if endpoint atom hidden, show endpoint residue**.
+
+e. Select **write information to file**. 
+
+f. Click on **OK** and save the given file in target directory, as indicated below. 
+
+![image](https://user-images.githubusercontent.com/17006122/205603799-eb4c813c-458f-442a-aab2-a69be7a366ff.png)
+
+
+Now you can see the interactions and use the observed surface to interpret the interactions between your ligand and receptor. 
+
+![image](https://user-images.githubusercontent.com/17006122/205604128-6019679a-ecca-4042-8cb6-d8b23797e257.png)
+
+![image](https://user-images.githubusercontent.com/17006122/205604488-7196fc12-3a00-4dbf-adca-48a79f627473.png)
+
+
+
