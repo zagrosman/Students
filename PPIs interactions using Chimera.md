@@ -16,6 +16,7 @@ Next, you should see the following window after selecting the above-mentioned op
 ![image](https://user-images.githubusercontent.com/17006122/205599479-27df3b20-551b-447c-925c-10c607844e0b.png)
 
 Then subject the following settings to the appeared window:
+
 a. Select **both** in **Find these bonds box**
 
 b. Select **Relax Hbonds constrains** and change its value to 0.5 angstroms to 30 degree as depicted in the previous image. 
