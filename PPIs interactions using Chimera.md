@@ -11,3 +11,14 @@
 
 ![image](https://user-images.githubusercontent.com/17006122/205598349-c10ad17a-d2e9-4ace-9592-49ffcb7ecf92.png)
 
+Next, you should see the following window after selecting the above-mentioned options:
+
+![image](https://user-images.githubusercontent.com/17006122/205599479-27df3b20-551b-447c-925c-10c607844e0b.png)
+
+Then subject the following settings to the appeared window:
+a. Select **both** in **Find these bonds box**
+b. Select **Relax Hbonds constrains** and change its value to 0.5 angstroms to 30 degree as depicted in the previous image. 
+c. Select **Color H-bonds not meeting precise criteria differently:** You can click on the colorful box to select another color for showing H-bonds:
+
+![image](https://user-images.githubusercontent.com/17006122/205600854-a61a0f28-ed91-41f1-bd7e-9d365cf2893b.png)
+
