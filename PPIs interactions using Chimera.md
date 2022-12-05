@@ -39,7 +39,10 @@ Now you can see the interactions and use the observed surface to interpret the i
 
 ![image](https://user-images.githubusercontent.com/17006122/205604128-6019679a-ecca-4042-8cb6-d8b23797e257.png)
 
-![image](https://user-images.githubusercontent.com/17006122/205604488-7196fc12-3a00-4dbf-adca-48a79f627473.png)
+You can change its graphics for publishing. 
+
+![image](https://user-images.githubusercontent.com/17006122/205604694-ede4739e-3120-4154-982d-8df3c803320a.png)
+
 
 
 
