@@ -45,4 +45,10 @@ You can change its graphics for publishing.
 
 
 
+Still you need to add the residue labels to your interaction graphics. To do this, you can use the following options to highlight residue names:
+
+1. Hold ctrl+shift bottoms together and then using left click of your mouse click on the target residue.
+2. Go to Action menu and select lable and then residue. You can specifiy the name that would be shown for each residues.
+
+![image](https://user-images.githubusercontent.com/17006122/205610060-55f8e385-c195-4ff1-853c-5b328b4ec62a.png)
 
