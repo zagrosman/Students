@@ -135,5 +135,5 @@ Now close the ADT, and follow the rest of settings in Chimera.
 ![image](https://user-images.githubusercontent.com/17006122/207033971-f02c7a9e-7869-47be-8146-b6f4792d9e7c.png)
 
 
-
+11. Now, you can play the docking movie in Chimera docking analysis panel to see the possible interaction of your ligand and active site residues. 
 
