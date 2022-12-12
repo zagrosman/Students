@@ -1,4 +1,4 @@
-## Protein Ligand docking using Chimera software
+## Protein-Ligand docking using Chimera software
 
 ![image](https://user-images.githubusercontent.com/17006122/207009540-cfa190b5-aab1-476f-b469-71c1d9184891.png)
 
