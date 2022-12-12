@@ -116,5 +116,23 @@ Now close the ADT, and follow the rest of settings in Chimera.
 
 6. Set receptor options to [true]
 
+![image](https://user-images.githubusercontent.com/17006122/207032402-b38378fa-2417-44ab-93bd-da51e376f0a7.png)
+
+7. Select autodock vina installation path and then select vina executable file. Vina installation path is [C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe] on windows OS. 
+
+![image](https://user-images.githubusercontent.com/17006122/207032838-6bc3d91b-914e-4621-a55d-62384b7dd409.png)
+
+8. Set output file as [receptor-ligand.pdbqt] and save it into your working directory. 
+
+![image](https://user-images.githubusercontent.com/17006122/207033204-7772d09b-0adb-490e-ac4e-b231226dbd1c.png)
+
+9. Recheck all given options before docking to ensure all steps correctly done. 
+
+![image](https://user-images.githubusercontent.com/17006122/207033406-fad28fc6-3389-4b60-adf3-a0d21418b5f7.png)
+
+10. Click on **OK** and wait for docking results. 
+
+![image](https://user-images.githubusercontent.com/17006122/207033817-f40b5ee4-ea04-4fe6-adfc-cd7d756dfbca.png)
+
 
 
