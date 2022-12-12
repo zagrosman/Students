@@ -57,4 +57,22 @@ Now, close the Chimera interface and repeat the above mentioned steps for your l
 
 1. Download or fetch the 3D conformation of your ligand from PubChem, Chemspider or other relevant chemical ligand databases. 
 2. Open the ligand in Chimera and repeat the above mentioned options to prepare your ligand. 
-3. After ligand preparation, save the ligand in mol2 formation in your workfolder path. 
+3. After ligand preparation, save the ligand in mol2 formation in your workfolder path. So, follow the below steps to prepare your ligands:
+
+**Steps:**
+1. Download the 3D sdf conformation of your target ligand in PubChem database as shown. 
+
+![image](https://user-images.githubusercontent.com/17006122/207018905-c6054cf0-eb8e-4535-81c6-18b0aa27e422.png)
+
+2. Insert the downloaded file into your workfolder and change its name. 
+
+![image](https://user-images.githubusercontent.com/17006122/207018835-e599b97e-07f5-48ca-a74c-bc0a48af3b37.png)
+
+3. Open the file in Chimera as shown:
+
+![image](https://user-images.githubusercontent.com/17006122/207019091-91b842d6-a3f2-49ac-9db8-b9f847091f7d.png)
+
+4. Prepare the ligand using [Dock prep] options in tools menu and then save the ligand in mol2 format. 
+
+
+
