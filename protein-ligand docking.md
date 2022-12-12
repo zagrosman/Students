@@ -148,6 +148,18 @@ https://user-images.githubusercontent.com/17006122/207034716-4a5000f2-a704-4623-
 
 13. Set up the new window option as below to see the formed Hbonds between ligand and receptor, the click on **Apply**:
 
+![image](https://user-images.githubusercontent.com/17006122/207036561-07b1b68b-068b-4812-8a8a-3d43584ce613.png)
+
+14. Select interacted residues using [ctrl+shift] and then label the residues using the following option.
+
+![image](https://user-images.githubusercontent.com/17006122/207037069-90534366-f86a-44dc-ae01-4b275001f0ca.png)
+
+15. Select actions> color> all options:
+
+![image](https://user-images.githubusercontent.com/17006122/207037362-7b943ced-ce8c-4b0d-b443-49dae41bc751.png)
+
+16. In new window, select [residue labels] and set it to black. 
+
 
 
 
