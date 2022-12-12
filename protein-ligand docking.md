@@ -1,6 +1,6 @@
 ## Protein Ligand docking using Chimera software
 
-![Uploading image.png…]()
+
 
 **Requirements:**
 1. Receptor file: in pdb format. 
