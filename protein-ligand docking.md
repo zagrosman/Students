@@ -42,6 +42,11 @@ Now, you can see:
  
  6. In **Specify net charges**, select the displayed options and then click on **OK**:
 
+![image](https://user-images.githubusercontent.com/17006122/207013899-aaad3ee9-b51e-4b90-ab09-2fbf6ceeb821.png)
+
+ 7. In **Save menu**, select a name for prepared receptor and then click on **Save** to save your prepared receptor in [.mol2] format. 
+
+![image](https://user-images.githubusercontent.com/17006122/207014655-8b250cd6-7850-4dfb-b761-1cf544aad2fc.png)
 
 
 
