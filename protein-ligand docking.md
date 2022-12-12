@@ -132,7 +132,8 @@ Now close the ADT, and follow the rest of settings in Chimera.
 
 10. Click on **OK** and wait for docking results. 
 
-![image](https://user-images.githubusercontent.com/17006122/207033817-f40b5ee4-ea04-4fe6-adfc-cd7d756dfbca.png)
+![image](https://user-images.githubusercontent.com/17006122/207033971-f02c7a9e-7869-47be-8146-b6f4792d9e7c.png)
+
 
 
 
