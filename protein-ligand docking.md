@@ -16,6 +16,7 @@
 
 
 ## Docking steps using UCSF Chimera
+**Step 1**: Receptor preparation
 1. Fetch or open the target pdb file. 
 
 ![image](https://user-images.githubusercontent.com/17006122/207010253-2bb1a78e-8260-470b-893a-bfc9c3bd36dc.png)
@@ -49,16 +50,11 @@ Now, you can see:
 ![image](https://user-images.githubusercontent.com/17006122/207014655-8b250cd6-7850-4dfb-b761-1cf544aad2fc.png)
 
 
+Now, close the Chimera interface and repeat the above mentioned steps for your ligand.
 
 
+**Step 2**: Ligand preparation
 
-
-
-
-
-
-
-
-
-3. Download or fetch the 3D conformation of your ligand from PubChem, Chemspider or other relevant chemical ligand databases. 
-4. 
+1. Download or fetch the 3D conformation of your ligand from PubChem, Chemspider or other relevant chemical ligand databases. 
+2. Open the ligand in Chimera and repeat the above mentioned options to prepare your ligand. 
+3. After ligand preparation, save the ligand in mol2 formation in your workfolder path. 
