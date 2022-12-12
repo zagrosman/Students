@@ -92,5 +92,10 @@ To dock ligand into target receptor, you should first install autodock vina, aut
 
 ![image](https://user-images.githubusercontent.com/17006122/207022661-1c3e2ef9-1785-46eb-9a68-5e05c37d5711.png)
 
+**First:** Open the autodock to set a grid box for your receptor.
+
+![image](https://user-images.githubusercontent.com/17006122/207026413-32d9c7b9-6057-4d3e-9b21-203eed955da0.png)
+
+**Second:** Set the grid box to where the protein active site is. You should read the receptor-related crystallography details to find the active site details. 
 
 
