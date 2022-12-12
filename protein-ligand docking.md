@@ -98,4 +98,7 @@ To dock ligand into target receptor, you should first install autodock vina, aut
 
 **Second:** Set the grid box to where the protein active site is. You should read the receptor-related crystallography details to find the active site details. 
 
+![image](https://user-images.githubusercontent.com/17006122/207028517-3316a589-450a-4ae1-b5bd-0b231bc5a069.png)
+
+**Third:** When you prepared the grid box information, now the numerical values for grid box coordinations should add to Chimera grid box. 
 
