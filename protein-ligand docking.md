@@ -140,3 +140,14 @@ Now close the ADT, and follow the rest of settings in Chimera.
 
 https://user-images.githubusercontent.com/17006122/207034716-4a5000f2-a704-4623-87a3-89a78c910236.mp4
 
+
+12. Select Tools> surface/binding analysis> FindHB:
+
+![image](https://user-images.githubusercontent.com/17006122/207036139-158b6d6c-1b7a-471d-a9f4-c52ea7f229d2.png)
+
+
+13. Set up the new window option as below to see the formed Hbonds between ligand and receptor, the click on **Apply**:
+
+
+
+
