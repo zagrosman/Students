@@ -30,7 +30,10 @@ Now, you can see:
  
  Now you can see:
  
- 
+ ![image](https://user-images.githubusercontent.com/17006122/207011833-204fe198-73ce-4578-8247-386353d4245a.png)
+
+ 3.  Select  all  options  except  “**Delete non-complexed ions**” and click **OK** as shown above. 
+ 4.  In **Add hydrogens panel** tick all indicated options and then click on **OK** as shown below.
 
 
 
