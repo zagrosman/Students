@@ -112,5 +112,9 @@ Now close the ADT, and follow the rest of settings in Chimera.
 
 5. Assign receptor and ligand molecules to their own boxes:
 
+![image](https://user-images.githubusercontent.com/17006122/207032018-cb5af1d2-935e-47cc-b0b0-bffda330a806.png)
+
+6. Set receptor options to [true]
+
 
 
