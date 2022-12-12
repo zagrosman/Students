@@ -74,5 +74,10 @@ Now, close the Chimera interface and repeat the above mentioned steps for your l
 
 4. Prepare the ligand using [Dock prep] options in tools menu and then save the ligand in mol2 format. 
 
+![image](https://user-images.githubusercontent.com/17006122/207020235-aefbd1b8-a3d5-4eb6-8a88-91ef52dc9835.png)
+
+
+## Docking
+To dock ligand into target receptor, you should first install autodock vina, autodock and mgltools on your operating system. You can download the source files of these tools from developer websites. Chimera has its own interface docking options. Therefore, when the user run Chimera, he/she should orient the chimera to where the autodock vina installed on your system. You should specify its path and then run its docking interface. 
 
 
