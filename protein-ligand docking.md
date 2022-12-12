@@ -18,26 +18,31 @@
 ## Docking steps using UCSF Chimera
 1. Fetch or open the target pdb file. 
 
-        ![image](https://user-images.githubusercontent.com/17006122/207010253-2bb1a78e-8260-470b-893a-bfc9c3bd36dc.png)
+![image](https://user-images.githubusercontent.com/17006122/207010253-2bb1a78e-8260-470b-893a-bfc9c3bd36dc.png)
 
 Now, you can see:
 
-            ![image](https://user-images.githubusercontent.com/17006122/207010518-5532ff51-aa95-44ba-88cf-b2a55da5c2a4.png)
+![image](https://user-images.githubusercontent.com/17006122/207010518-5532ff51-aa95-44ba-88cf-b2a55da5c2a4.png)
 
 2.  Click on Tools> Structure Editing > Dock Prep as shown:
 
-            ![image](https://user-images.githubusercontent.com/17006122/207011162-7c1292fc-31b0-4f66-bfca-a546bcf8b76c.png)
+![image](https://user-images.githubusercontent.com/17006122/207011162-7c1292fc-31b0-4f66-bfca-a546bcf8b76c.png)
  
  Now you can see:
  
-            ![image](https://user-images.githubusercontent.com/17006122/207011833-204fe198-73ce-4578-8247-386353d4245a.png)
+![image](https://user-images.githubusercontent.com/17006122/207011833-204fe198-73ce-4578-8247-386353d4245a.png)
 
  3.  Select  all  options  except  “**Delete non-complexed ions**” and click **OK** as shown above. 
  4.  In **Add hydrogens panel** tick all indicated options and then click on **OK** as shown below.
+![image](https://user-images.githubusercontent.com/17006122/207012653-9cb2b2ad-4ee6-41ee-9367-36ffcf0ddebd.png)
 
-            ![image](https://user-images.githubusercontent.com/17006122/207012653-9cb2b2ad-4ee6-41ee-9367-36ffcf0ddebd.png)
+ 5. In **Assign charges for Dock Prep panel**, click on **OK**. The given options should be selected before running this step. 
 
- 5. 
+![image](https://user-images.githubusercontent.com/17006122/207013336-032bdd02-be88-468b-8d1d-c110ad8f2df8.png)
+ 
+ 6. In **Specify net charges**, select the displayed options and then click on **OK**:
+
+
 
 
 
