@@ -102,4 +102,15 @@ To dock ligand into target receptor, you should first install autodock vina, aut
 
 **Third:** When you prepared the grid box information, now the numerical values for grid box coordinations should add to Chimera grid box. 
 
+![image](https://user-images.githubusercontent.com/17006122/207029762-87a195a1-099f-4e9a-88d8-1367aa0e9434.png)
+
+Now close the ADT, and follow the rest of settings in Chimera. 
+
+4. Using Chimera grid box options, you can resize the coordination of your docking box. To do this, you can change numerical value in each xyz boxes. Please note that you can set up the grid box using box ADT or chimera alone. 
+
+![image](https://user-images.githubusercontent.com/17006122/207031088-e854731a-e8ce-4041-b3a4-88e78fbd6647.png)
+
+5. Assign receptor and ligand molecules to their own boxes:
+
+
 
