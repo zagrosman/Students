@@ -80,4 +80,17 @@ Now, close the Chimera interface and repeat the above mentioned steps for your l
 ## Docking
 To dock ligand into target receptor, you should first install autodock vina, autodock and mgltools on your operating system. You can download the source files of these tools from developer websites. Chimera has its own interface docking options. Therefore, when the user run Chimera, he/she should orient the chimera to where the autodock vina installed on your system. You should specify its path and then run its docking interface. 
 
+1. Open both ligand and receptor in mol2 format in Chimera. You formerly prepared these molecules using chimera docking preparation module. 
+
+![image](https://user-images.githubusercontent.com/17006122/207021878-8ad8c8c4-5dc3-4b6d-8162-5567bc351773.png)
+
+2. Open the chimera docking module:
+
+![image](https://user-images.githubusercontent.com/17006122/207022120-35fb75b4-ed8b-46ab-841c-9c97a08c962b.png)
+
+3. You should specify docking parameters in the appeared window on your Chimera visualization interface:
+
+![image](https://user-images.githubusercontent.com/17006122/207022661-1c3e2ef9-1785-46eb-9a68-5e05c37d5711.png)
+
+
 
