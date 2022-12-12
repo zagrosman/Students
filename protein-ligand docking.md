@@ -160,6 +160,16 @@ https://user-images.githubusercontent.com/17006122/207034716-4a5000f2-a704-4623-
 
 16. In new window, select [residue labels] and set it to black. 
 
+![image](https://user-images.githubusercontent.com/17006122/207038196-3647d94c-53d1-431f-b056-7ac184349719.png)
+
+17. Select actions> label> options to change the size and residue label fonts:
+
+![image](https://user-images.githubusercontent.com/17006122/207038394-1ddb12af-60c2-44ea-bb20-d25524bf7acf.png)
+
+
+
+
+
 
 
 
