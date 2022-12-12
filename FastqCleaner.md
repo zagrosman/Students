@@ -1,5 +1,5 @@
 # This is a tutorial for quality control of fastq.gz files of NGS outputs by H. Rasouli
-> December 23, 2021   ( ͡👁️ ͜ʖ ͡👁️)
+> December 23, 2021   ( ͡👁️ ͜ʖ ͡👁️) 
 
 ![image](https://user-images.githubusercontent.com/17006122/146686434-cd019170-e7d2-459e-a2b8-3a6edacf6383.png)
 
