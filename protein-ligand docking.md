@@ -1,5 +1,6 @@
 ## Protein Ligand docking using Chimera software
 
+![image](https://user-images.githubusercontent.com/17006122/207009540-cfa190b5-aab1-476f-b469-71c1d9184891.png)
 
 
 **Requirements:**
@@ -16,5 +17,32 @@
 
 ## Docking steps using UCSF Chimera
 1. Fetch or open the target pdb file. 
-2. Download or fetch the 3D conformation of your ligand from PubChem, Chemspider or other relevant chemical ligand databases. 
-3. 
+
+![image](https://user-images.githubusercontent.com/17006122/207010253-2bb1a78e-8260-470b-893a-bfc9c3bd36dc.png)
+
+Now, you can see:
+
+![image](https://user-images.githubusercontent.com/17006122/207010518-5532ff51-aa95-44ba-88cf-b2a55da5c2a4.png)
+
+2.  Click on Tools> Structure Editing > Dock Prep as shown:
+
+![image](https://user-images.githubusercontent.com/17006122/207011162-7c1292fc-31b0-4f66-bfca-a546bcf8b76c.png)
+ 
+ Now you can see:
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Download or fetch the 3D conformation of your ligand from PubChem, Chemspider or other relevant chemical ligand databases. 
+4. 
