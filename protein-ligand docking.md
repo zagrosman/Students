@@ -102,3 +102,4 @@ To dock ligand into target receptor, you should first install autodock vina, aut
 
 **Third:** When you prepared the grid box information, now the numerical values for grid box coordinations should add to Chimera grid box. 
 
+
