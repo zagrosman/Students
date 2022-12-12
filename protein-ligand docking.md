@@ -8,7 +8,6 @@
 2. Ligand file: in 3D sdf format. 
 3. UCSF Chimera: latest vesrion. 
 4. ChimeraX: an advanced rendering software to show protein ligand interactions. 
-5. Protein Imager: An online web interface to illustrate 3D conformation of bio-macromolecules. 
 
 **Traget receptor and ligand for this tutorial:**
 1. Receptor: Human pancreatic alpha amylase: PDB id: 1HNY
@@ -166,6 +165,12 @@ https://user-images.githubusercontent.com/17006122/207034716-4a5000f2-a704-4623-
 
 ![image](https://user-images.githubusercontent.com/17006122/207038394-1ddb12af-60c2-44ea-bb20-d25524bf7acf.png)
 
+
+![image](https://user-images.githubusercontent.com/17006122/207038997-75fe32b2-c67d-4e2d-b94c-dba4055567be.png)
+
+18. Now your docking is ready for publishing:
+
+![image](https://user-images.githubusercontent.com/17006122/207039060-0f351167-cfe7-4c36-a5c6-e4c2add66c3f.png)
 
 
 
