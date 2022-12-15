@@ -41,4 +41,4 @@ Now you can use it and try to do quality control of your sequenced reads
 # Please use the following file to run FastqCleaner:
 
 https://uupload.ir/view/example_11ur.zip/
-
+ 
