@@ -45,3 +45,13 @@
 
 
 ![image](https://user-images.githubusercontent.com/17006122/209529543-82843a4c-8a03-468e-b5b0-b088f65a55ab.png)
+
+9. After finishing your docking job, you should download the outputs and moniotr the produced poses to find the best interaction profile. 
+
+![image](https://user-images.githubusercontent.com/17006122/209535253-caf941f3-5695-42d8-ac11-0b9860e77bcb.png)
+
+
+Make sure that the top docking pose should be selected for post-docking analyses. 
+
+![image](https://user-images.githubusercontent.com/17006122/209535358-55ea7d8f-af26-4c8b-9e0b-f8b99abbfb71.png)
+
