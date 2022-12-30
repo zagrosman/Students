@@ -28,6 +28,6 @@ Here you can find some useful tutorials on RNAseq analyses
 
 
 ## RNAseq steps
-1. Quality control
+1. [Quality control](https://github.com/zagrosman/Students/blob/master/RNAseq/Qualitycontrol.md)
 2. [Trimming](https://github.com/zagrosman/Students/blob/master/RNAseq/trimming.md)
-3. Mapping
+3. [Mapping]( )
