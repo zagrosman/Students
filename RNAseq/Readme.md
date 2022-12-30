@@ -2,6 +2,9 @@
 
 Here you can find some useful tutorials on RNAseq analyses
 
+![image](https://user-images.githubusercontent.com/17006122/210064263-6d487b75-e7ec-4913-a367-6c46c1d3a88a.png)
+
+
 ## Useful links
 
 RNA-Seq Mapping Software
