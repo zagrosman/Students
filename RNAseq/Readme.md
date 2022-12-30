@@ -14,4 +14,4 @@ RNA-Seq Mapping Software
 
 ## Full RNAseq guidelines:
 
-1- Informatics for RNA-seq: A web resource for analysis on the cloud [link](https://github.com/griffithlab/rnaseq_tutorial)
+1. [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)
