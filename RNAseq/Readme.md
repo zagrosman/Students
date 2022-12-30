@@ -24,3 +24,8 @@ Here you can find some useful tutorials on RNAseq analyses
 ## Full RNAseq guidelines:
 
 1. [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)
+
+
+
+## RNAseq steps
+1. [Trimming](https://github.com/zagrosman/Students/blob/master/RNAseq/trimming.md)
