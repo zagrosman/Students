@@ -11,3 +11,7 @@ RNA-Seq Mapping Software
 3. Tophat------ [link](http://tophat.cbcb.umd.edu/)
 4. Bioinformatics tools ----[link](https://bioinformaticshome.com/tools/msa/descriptions/Multi-LAGAN.html#gsc.tab=0)
 5. Biotools---- [link](https://services.healthtech.dtu.dk/?Seq2Logo-2.0)
+
+## Full RNAseq guidelines:
+
+1- Informatics for RNA-seq: A web resource for analysis on the cloud [link](https://github.com/griffithlab/rnaseq_tutorial)
