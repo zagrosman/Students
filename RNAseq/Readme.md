@@ -15,6 +15,7 @@ RNA-Seq Mapping Software
 4. [Bioinformatics tools](https://bioinformaticshome.com/tools/msa/descriptions/Multi-LAGAN.html#gsc.tab=0)
 5. [Biotools](https://services.healthtech.dtu.dk/?Seq2Logo-2.0)
 6. [Format Converter](http://genome2d.molgenrug.nl/g2d_tools_conversions.html)
+7. [BedTools](https://bedtools.readthedocs.io/en/latest/content/tools/getfasta.html)
 
 ## Full RNAseq guidelines:
 
