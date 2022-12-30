@@ -16,6 +16,10 @@ RNA-Seq Mapping Software
 5. [Biotools](https://services.healthtech.dtu.dk/?Seq2Logo-2.0)
 6. [Format Converter](http://genome2d.molgenrug.nl/g2d_tools_conversions.html)
 7. [BedTools](https://bedtools.readthedocs.io/en/latest/content/tools/getfasta.html)
+8. [OnlineAnalyzor](https://cqs-vumc.shinyapps.io/rnaseqsamplesizeweb/)
+9. [GEO2R TUTORIAL](https://wiki.bits.vib.be/index.php/Analyze_GEO_data_with_GEO2R)
+10. [GEO2RBI](https://wiki.bits.vib.be/index.php/Analyse_GEO2R_data_with_R_and_Bioconductor)
+11. [SRA](https://www.ncbi.nlm.nih.gov/sra)
 
 ## Full RNAseq guidelines:
 
