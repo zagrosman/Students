@@ -7,7 +7,7 @@ Here you can find some useful tutorials on RNAseq analyses
 
 ## Useful links
 
-RNA-Seq Mapping Software
+**RNA-Seq related tools**
 
 1. [HiSat2](https://ccb.jhu.edu/software/hisat2/)
 2. [Star](https://github.com/alexdobin/STAR)
