@@ -11,11 +11,13 @@ To set off your first RNAseq project, you can follow the below steps to start RN
 2. ``` $ cd project```
 3. ``` $ mkdir QC```
 
+and then install QC tool:
 
-
-cd $RNA_HOME/student_tools/
+```
 wget https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.8.zip --no-check-certificate
 unzip fastqc_v0.11.8.zip
 cd FastQC/
 chmod 755 fastqc
 ./fastqc --help
+
+```
