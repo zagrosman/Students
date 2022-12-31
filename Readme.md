@@ -16,7 +16,7 @@ This projects aims to provide a free open-source educational system for students
 1. [Managing figures in Photoshop in Persian](https://github.com/zagrosman/Students/blob/master/%DA%A9%D8%A7%D8%B1%20%D8%A8%D8%A7%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20Frame%20tool%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%20%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF.pdf)
 2. [Protein interactions](https://github.com/zagrosman/Students/blob/master/PPIs%20interactions%20using%20Chimera.md)
 3. [Protein-ligand docking](https://github.com/zagrosman/Students/blob/master/protein-ligand%20docking.md)
-4. [Showing docjing interactions in pymol](https://github.com/zagrosman/Students/blob/master/Showing%20interactions%20using%20PyMOL.pdf)
+4. [Showing docking interactions in pymol](https://github.com/zagrosman/Students/blob/master/Showing%20interactions%20using%20PyMOL.pdf)
 5. [Chemical libraries for molecular docking](https://github.com/zagrosman/Students/blob/master/chemical%20libraries%20for%20docking.md)
 6. [RNAseq tutorials](https://github.com/zagrosman/Students/tree/master/RNAseq)
 7. [Molecular dynamics simulation]( ). This section will be updated. 
