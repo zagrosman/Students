@@ -20,6 +20,7 @@ This projects aims to provide a free open-source educational system for students
 5. [Chemical libraries for molecular docking](https://github.com/zagrosman/Students/blob/master/chemical%20libraries%20for%20docking.md)
 6. [RNAseq tutorials](https://github.com/zagrosman/Students/tree/master/RNAseq)
 7. [Molecular dynamics simulation]( ). This section will be updated. 
+8. [Python tutorials](https://github.com/zagrosman/pythoncode-tutorials)
 
 
 
