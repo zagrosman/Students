@@ -12,6 +12,9 @@
 This projects aims to provide a free open-source educational system for students worldwide to learn bioinformatics content.
 
 
+## Table of contents
+1. [Managing figures in Photoshop](https://github.com/zagrosman/Students/blob/master/%DA%A9%D8%A7%D8%B1%20%D8%A8%D8%A7%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20Frame%20tool%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%20%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF.pdf)
+
 
 # Rights
 1. This is a free project. So, reproducing its content for webinars and workshops requires premission from the owner. 
