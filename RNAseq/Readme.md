@@ -21,7 +21,7 @@ Here you can find some useful tutorials on RNAseq analyses
 10. [GEO2RBI](https://wiki.bits.vib.be/index.php/Analyse_GEO2R_data_with_R_and_Bioconductor)
 11. [SRA](https://www.ncbi.nlm.nih.gov/sra)
 12. [WebLogo](https://github.com/WebLogo/weblogo)
-13.[SequenceLogoinR](https://omarwagih.github.io/ggseqlogo/)
+13. [SequenceLogoinR](https://omarwagih.github.io/ggseqlogo/)
 14. [SequenceLogoinPython](https://github.com/saketkc/pyseqlogo)
 15. [gglogoinR](https://github.com/heike/gglogo)
 
