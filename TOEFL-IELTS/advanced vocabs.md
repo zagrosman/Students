@@ -20,3 +20,55 @@
 18. **esoteric** ~ understood by a select few who have special knowledge 
 19. **nascent** ~ beginning to exist or develop 
 20. **quintessential** ~ representing the most perfect or typical example
+
+
+## Environmental-related words
+
+1. Biodiversity
+2. Deforestation
+3. Rural and aurban areas
+4. Climate change
+5. Global warming
+6. Greenhouse gases
+7. Extinction
+8. Fossil fuels 
+9. Coal
+10. Utilization
+11. Utilize
+12. Deterioration
+13. Degradation
+14. Biomass
+15. Rural economy
+16. Rural migration
+17. Rural growth
+18. Environmental concerns
+19. Environmental problems
+20. Environmental issues
+21. Natural resources
+22. Oil companies
+23. Pesticides
+24. Fungicides
+25. Chemicals
+26. Hydropower
+27. Wind power
+28. Alternative power
+29. Nuclear power
+30. Alternative energy
+31. Methane 
+32. Fertilizers
+33. Biofertilizers 
+34. Renewable energies
+35. non-renewable energies
+36. Habitat
+37. Ecosystem
+38. Creatures
+39. Desert
+40. Intensive farming
+41. Intensive agriculture
+42. Sowing seeds
+43. Plantation, cultivation, harvest
+44. Dietary waste
+45. Food garbage disposal
+46. Sewage
+47. Industrial zone
+48. Conserved spots
