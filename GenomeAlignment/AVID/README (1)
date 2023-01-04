@@ -1,0 +1,96 @@
+AVID is a program for computing global alignments between sequences and for
+ordering and orienting draft sequence.
+
+The algorithm is described in:
+Bray N, Dubchak I and Pachter L., AVID: A Global Alignment Program, 
+Genome Research, Vol. 13, p 97--102 (2003).
+
+Please cite this paper if you use AVID in your research.
+
+
+The basic usage is as follows:
+
+avid [options] file1 file2
+
+where file1 and file2 are FASTA sequence files and the options to the program
+are as described below.
+
+IMPORTANT: If you are using AVID on Macintosh OS X, you must run the command
+"unlimit stacksize" before running AVID.
+
+In the case of draft sequence, file2 should be the name of the draft sequence
+file. By default, the program expects that for each sequence file, there will
+also be a masking file for that sequence located in the same directory. For
+example, if the first sequence is named "human.fasta" then the program expects
+there to be a file named "human.fasta.masked" which will be in the format of
+a RepeatMasker .masked output(i.e. masked positions are indicated by Ns).
+
+
+Options
+-------
+
+Running the program with the -r option causes it to reverse compliment the
+second sequence before it computes the global alignment. This option has no
+effect if the second sequence is draft.
+
+The -nm={first,second,both} option specifies not to use masking for one or both
+of the sequences. This is not recommended as not having the repeat locations
+masked may cause the program to produce worse quality alignments.
+
+The -obin option causes the program to use a binary format for it's output.
+This format is described below.
+
+The -opsl option causes the program to output a PSL file describing the
+alignment.
+
+Binary Output
+-------------
+
+The format for the alignment file is as follows: each byte of the file
+corresponds to one line of the non-binary alignment file. The higher four bits
+of the byte encodes the nucleotide from the base sequence and the lower four
+bits encode the nucleotide from the second sequence. The encoding for each
+nucleotide is gap = 0, A = 1, C = 2, T = 3, G = 4, N = 5.
+
+The binary format for the info file is as follows. In the case of finished
+sequence, the file has two lines:
+
+[fasta line from the second sequence]
+1 from to 0 0 0 0 {+,-} score secFrom secTo
+
+where from and to represent the first and last locations of "significant"
+alignment in the base sequence. Either + or - is output according to whether
+or not the reverse option was specified. score is a score for the alignment
+and, secFrom and secTo give the range of the cropped alignment in the second
+sequence.
+
+In the case of draft sequence, there will be two lines for every contig which
+is placed by the program. Each pair of lines will look like this:
+
+[FASTA line for this contig in the original sequence file]
+n baseFrom baseTo mergedFrom mergedTo startChop endChop {+,-} score secFrom secTo
+
+n is the index of this contig in the original sequence file. baseFrom and
+baseTo give the range of this contig in the base sequence, after being cropped
+until a significant alignment is found. If the contig is entirely gapped in
+the base sequence then these number will both be 0. If no significant
+alignment is found(the contig is entirely cropped) then these numbers will
+both be -1. mergedFrom to mergedTo give the range of
+this contig in the merged draft sequence. Due to overlapping between
+consecutive contigs, this range may be shorter than the original contig.
+startChop and endChop give us the information about the overlapping of
+consecutive contigs. For example, if our file contained the lines:
+
+D002.fasta.screen.Contig47 (90178-99052, plus)
+47 219333 226457 91522 99146 0 62 + 5143
+D002.fasta.screen.Contig50 (97006-96802, plus)
+50 226458 234292 99246 107077 1124 0 + 4872
+
+Then contig 47 has endChop = 62 and contig 50 has startChop = 1124. This means
+that there was a total overlap of 62 + 1124 = 1186 between these two contigs
+and that the contigs were merged by chopping 62 bases off the end of contig 47
+and 1124 off the beginning of contig 50.(startChop and endChop are chosen with
+the goal of having the best quality merged sequence)
+
+Finally, the line ends with + or - depending on whether the contig was oriented
+forward or reverse complement, respectively.
