@@ -22,7 +22,7 @@
 20. **quintessential** ~ representing the most perfect or typical example
 
 
-## Environmental-related words
+## Environmental-related words: Part 1
 
 1. Biodiversity
 2. Deforestation
@@ -49,26 +49,32 @@
 23. Pesticides
 24. Fungicides
 25. Chemicals
-26. Hydropower
-27. Wind power
-28. Alternative power
-29. Nuclear power
-30. Alternative energy
-31. Methane 
-32. Fertilizers
-33. Biofertilizers 
-34. Renewable energies
-35. non-renewable energies
-36. Habitat
-37. Ecosystem
-38. Creatures
-39. Desert
-40. Intensive farming
-41. Intensive agriculture
-42. Sowing seeds
-43. Plantation, cultivation, harvest
-44. Dietary waste
-45. Food garbage disposal
-46. Sewage
-47. Industrial zone
-48. Conserved spots
+
+## Environmental-related words: Part 2
+
+26. Loss of Biodiversity
+27. Hydropower
+28. Wind power
+29. Alternative power
+30. Nuclear power
+31. Alternative energy
+32. Methane 
+33. Fertilizers
+34. Biofertilizers 
+35. Renewable energies
+36. non-renewable energies
+37. Habitat
+38. Ecosystem
+39. Creatures
+40. Desert
+41. Intensive farming
+42. Intensive agriculture
+43. Sowing seeds
+44. Plantation, cultivation, harvest
+45. Dietary waste
+46. Food garbage disposal
+47. Sewage
+48. Industrial zone
+49. Conserved spots
+50. Natural disasters
+51. Burning fossil fuels
