@@ -15,7 +15,13 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 
 ## Speaking
 
-
+1. [Speaking ETS samples](https://www.ets.org/pdfs/toefl/toefl-ibt-speaking-practice-sets.pdf)
+2. [Magoosh speaking samples](https://s3.amazonaws.com/magoosh.resources/TOEFLSpeakingPracticePDF.pdf)
+3. [Perfect phrases for TOEFL speaking](https://newmillenniumenglish.files.wordpress.com/2016/06/perfect-phrases-for-the-toefl-speaking-and-writing-sections.pdf)
+4. [Speaking tips toefl](https://www.youtube.com/watch?v=itOyJxRdilY)
+5. [Speaking tips](https://www.youtube.com/watch?v=zot2_HgAPnk)
+6. [TOEFL Speaking 26+: Expert Secrets Revealed](https://www.youtube.com/watch?v=pXo6b2HvIsc)
+7. [TOEFL Speaking Practice: 10 Sample Questions and Answers](https://www.youtube.com/watch?v=JFCGkG2RIuc)
 
 ## Writing
 
@@ -27,6 +33,7 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 6. [ETS writing sample](https://www.ets.org/pdfs/toefl/toefl-ibt-writing-practice-sets.pdf)
 7. [TOEFL writing templates](https://s3.amazonaws.com/magoosh.resources/TOEFLWritingTemplates.pdf)
 8. [How to Ace TOEFL Writing TOEFL](https://magoosh-production.s3.amazonaws.com/attachments/6421/assets/originals.pdf?1558217726)
+9. [Writing practices](https://www.languages247.com/toefl/3-toefl-writing-samples-pdf/)
 
 ## Reading
 1. [Reading practice 1](https://www.youtube.com/watch?v=V6UajlQO97A)
