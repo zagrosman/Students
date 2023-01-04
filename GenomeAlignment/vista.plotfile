@@ -1,0 +1,26 @@
+TITLE NKX2.5
+
+OUTPUT vista.pdf
+
+ALIGN human_mouse.out
+ SEQUENCES human mouse
+ REGIONS 75 100
+ REGION_FILE regions.txt
+ ALIGNMENT_FILE human_mouse.alignment
+END
+
+GENES human.exons
+
+COORDINATE human
+
+START 1
+
+END 4000
+
+WINDOW 100
+
+NUM_PLOT_LINES 1
+
+LEGEND on
+
+AXIS_LABEL all

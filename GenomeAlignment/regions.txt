@@ -1,0 +1,11 @@
+Criteria: 75% identity over 100 bp
+
+*************** Conserved Regions - human (mouse) ***************
+
+     381     (408)  to      497     (513)  =      118bp  at  74.6%  noncoding
+     498     (514)  to      673     (692)  =      182bp  at  82.4%  utr
+     674     (693)  to     1007    (1023)  =      336bp  at  83.6%  exon
+    2548    (2401)  to     3188    (3026)  =      641bp  at  85.5%  exon
+    3509    (3258)  to     3622    (3353)  =      114bp  at  76.3%  utr
+
+Total 1391bp at 83.0%
