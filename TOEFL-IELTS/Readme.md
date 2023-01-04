@@ -25,3 +25,7 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 
 
 ## Listening
+1. [VOA podcasts](https://learningenglish.voanews.com/podcasts)
+2. [BBC podcasts](https://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads)
+3. [National Geography podcasts](https://player.fm/podcasts/National-Geographic)
+4. [Ted talks](https://www.ted.com/talks)
