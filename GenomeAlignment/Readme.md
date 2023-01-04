@@ -1,4 +1,9 @@
-## Vista-based genome alignments
+## VISTA-based genome alignments
+
+![image](https://user-images.githubusercontent.com/17006122/210518710-391dd086-8329-4a6d-a890-9303e843362d.png)
+
+
+
 VISTA is an application that allows the visualization of long 
 sequence alignments with annotation information.
 
