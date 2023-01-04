@@ -1,3 +1,5 @@
+## Helpful vocabs to boost writing and speaking skills (update: Jan 4, 2023)
+
 1. **ubiquitous** ~ existing or being everywhere
 2. **cumbersome** ~ difficult or burdensome
 3. **facetious** ~ not meant to be taken seriously
