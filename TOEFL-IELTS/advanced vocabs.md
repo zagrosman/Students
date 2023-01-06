@@ -78,3 +78,44 @@
 49. Conserved spots
 50. Natural disasters
 51. Burning fossil fuels
+
+## 50 essential words to boost your writing and speaking skills (Updated: Jan 6, 2023)
+First review the following words and then watch [this video](https://www.youtube.com/watch?v=SYH213RXWzQ) to learn their pronunciations and examples. 
+
+1. **Apt** 👉🏻 suitable
+2. **Approbation** 👉🏻 Agreement
+3. **Apptitude** 👉🏻 Skill, talent, natural ability 
+4. **Arbiter** 👉🏻 An authorized person to judge or decide
+5. **Arbitrary** 👉🏻 randomly, by chance
+6. **Archetype** 👉🏻 Original pattern or model
+7. **Arid** 👉🏻 extremely dried, parched, barren
+8. **Aristocracy** 👉🏻 High level families such as royal families
+9. **Armistice** 👉🏻 ceasefire, temporary suspension of hostilities
+10. **Artful** 👉🏻 shrew, skillful, sly
+11. **Articulate** 👉🏻 eloquent, fluent, communicative, clear, distinct
+12. **Ascetic** 👉🏻 avoiding physical or universal pleasure for religious reasons
+13. **Guru** 👉🏻 Religious teacher
+14. **Ascend** 👉🏻 to move up or climb something
+15. **Asseverate** 👉🏻 declare or state solemnly or emphatically
+16. **Assiduous** 👉 carefully attentive, diligent, persistent, hard-working
+17. **Asylum** 👉 shelter or where can keep you safe, a protection for refugees
+18. **Atheist** 👉 a person who denies God
+19. **Attribute** 👉 inherent quality, characteristic, to assign, to credite with, to ascribe to. 
+20. **Augment** 👉 to increase, added to, to make larger, to enhance
+21. **Auspicious** 👉 beneficent, successful, favorable
+22. **Authentic** 👉 original, real, trustworthy, reliable, genuine 
+23. **Autocratic** 👉 dictatorial, despotic
+24. **Avarice** 👉 greed, excessive desire for gaining and possessing wealth
+25. **Awry** 👉 wrong, not intended in the way
+26. **Banal** 👉 Ordinary and usaul, not original, boring
+27. **Bane** 👉 destruction, a cause of continuous trouble, misfortune
+28. **Baneful** 👉 deadly, causing death or distress, destructive
+29. **Banter** 👉 tease, funny conversation
+30. **Baton** 👉 stick, staff, wand
+31. **Belie** 👉 to give false idea, to hide
+32. **Bellicose** 👉 warlike, quarrelsome 
+33. **Belligerent** 👉 hostile, aggressive 
+34. 
+35. 
+36.  
+37. 
