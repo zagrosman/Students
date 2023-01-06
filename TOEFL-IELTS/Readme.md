@@ -2,6 +2,17 @@
 
 Here, you can access to useful sources to improve your english skills. I'll try to upload available sources for enthusiastic students who are passionate to make great discoveries in science. If you cannot open some links inserted in this file, you can use fast VPNs to overcome internet connections in reaching these files. 
 
+👉 [Check your English Level in 20 Minutes](https://youtu.be/GEM7zVw0Dr0) 
+👉 [Imitation Technique (Improve your speaking)](https://youtu.be/oxy0ZQdDYiw) 
+👉 [A1 Listening Test:](https://youtu.be/H8mRwu1gdbE) 
+👉 A2 Listening Test: 
+https://youtu.be/dz9cZWGM1Zs 
+👉 B1 Listening Test: 
+https://youtu.be/ZRMLtTCA_Zw 
+👉 B2 Listening Test: 
+https://youtu.be/wmARUcJbv7c 
+👉 C1 Listening Test: https://youtu.be/Xa8zZSVO0O0
+
 
 ## Vocabulary
 
