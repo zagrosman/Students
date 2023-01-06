@@ -100,7 +100,7 @@ First review the following words and then watch [this video](https://www.youtube
 16. **Assiduous** 👉 carefully attentive, diligent, persistent, hard-working
 17. **Asylum** 👉 shelter or where can keep you safe, a protection for refugees
 18. **Atheist** 👉 a person who denies God
-19. **Attribute** 👉 inherent quality, characteristic, to assign, to credite with, to ascribe to. 
+19. **Attribute** 👉 inherent quality, characteristic, to assign, to credite with, to ascribe to. (n/v)
 20. **Augment** 👉 to increase, added to, to make larger, to enhance
 21. **Auspicious** 👉 beneficent, successful, favorable
 22. **Authentic** 👉 original, real, trustworthy, reliable, genuine 
@@ -115,7 +115,19 @@ First review the following words and then watch [this video](https://www.youtube
 31. **Belie** 👉 to give false idea, to hide
 32. **Bellicose** 👉 warlike, quarrelsome 
 33. **Belligerent** 👉 hostile, aggressive 
-34. 
-35. 
-36.  
-37. 
+34. **Benevolent** 👉 kind, generous
+35. **Bereave** 👉 to deprive or leave desolate by loss, to suffer loss
+36. **Besmirch** 👉 defame, to soil, to say bad things to someone in order to influence other people
+37. **Baised** 👉 prejudiced, not neutral, influenced
+38. **Bibliophile** 👉 a person who loves files or collect books, book callector
+39. **Bizarre** 👉 very strange and unsusal, wierd 
+40. **Bland** 👉 boring, not showing energy or willig to to do something
+41. **Blaze** 👉 to burn strongly and brightly
+42. **Blemish** 👉 a fault, a mark on something that soils its appearance
+43. **Blend** 👉 to mix or combine together
+44. **Blight** 👉 to ruin, to destroy, having bad effect on something
+45. **Blithe** 👉 happy and carefree
+46. **Bog** 👉 swamp, marshland, wet spongy ground
+47. **Bombast** 👉 Trite cliches, nonsense, pretentious words
+48. **Bombastic** 👉 using long and difficult words
+49. **Boorish** 👉 rude and not respectful, ill-mannered, loutish
