@@ -131,3 +131,16 @@ First review the following words and then watch [this video](https://www.youtube
 47. **Bombast** 👉 Trite cliches, nonsense, pretentious words
 48. **Bombastic** 👉 using long and difficult words
 49. **Boorish** 👉 rude and not respectful, ill-mannered, loutish
+
+
+##Advanced phrases
+1. Having said that... 👀
+2. Around the clock... ⏰
+3. Toss around the ideas... 😏
+4. In hindsight... 💡
+5. Lo and behold... 🙄
+6. In and of itself... 🙃
+7. Keep that in mind... 😑
+8. Take for granted... 🤔
+9. Be that as it may... 🐳
+10. Wishful thinking... 🦈
