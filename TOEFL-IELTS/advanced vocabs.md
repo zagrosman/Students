@@ -133,7 +133,7 @@ First review the following words and then watch [this video](https://www.youtube
 49. **Boorish** 👉 rude and not respectful, ill-mannered, loutish
 
 
-##Advanced phrases
+## Advanced phrases
 1. Having said that... 👀
 2. Around the clock... ⏰
 3. Toss around the ideas... 😏
