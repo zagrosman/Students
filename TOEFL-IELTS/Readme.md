@@ -30,6 +30,10 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 https://m.youtube.com/watch?v=A_TODJJzTxs&list=PL7GBaeXMzwSee1o519mG7GrXSKtqc7nop&index=7)🥳
 12. [Essential words for TOEFL](https://www.youtube.com/watch?v=QT9AXqKMlWs) 💪
 13. [400 words for TOEFL](https://www.youtube.com/watch?v=OJHQ969Q-Fo&list=TLPQMDkwMTIwMjPqZaCznxU48g&index=1) 💪
+14. [Complete words for TOEFL](https://www.youtube.com/@EssentialEnglishWords) 
+
+After checking the above-mentioned links, and attached files in this rep, you will not require further resources to learn and remember vocabs!
+
 
 
 
