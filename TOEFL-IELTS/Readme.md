@@ -25,6 +25,7 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 10. [Talking about foods](https://www.youtube.com/watch?v=50syDdhrVPc&t=96s)
 11. [504 essential words](
 https://m.youtube.com/watch?v=A_TODJJzTxs&list=PL7GBaeXMzwSee1o519mG7GrXSKtqc7nop&index=7)
+12. [Essential words for TOEFL](https://www.youtube.com/watch?v=QT9AXqKMlWs) 💪
 
 
 
