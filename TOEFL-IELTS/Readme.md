@@ -13,18 +13,18 @@ Here, you can access to useful sources to improve your english skills. I'll try 
 
 ## Vocabulary
 
-1. [Academic word lists](https://www.eapfoundation.com/enrich/environment/)
-2. [Advanced vocabulary](https://www.youtube.com/watch?v=uLN6IdRtDhg)
-3. [Crashcourses](https://www.youtube.com/watch?v=9PFhrpyWV-w)
-4. [TPO vocabs](https://app.memrise.com/course/1328190/tpo-words-1-54-with-audio/)
-5. [Comple word list toefl](https://www.prepscholar.com/toefl/blog/wp-content/uploads/sites/13/2017/08/TOEFL-Vocab-Word-List.pdf)
-6. [Advanced TOEFL wordlists](http://bettertoeflscores.com/bettertoeflscores.com/wp-content/uploads/2020/02/TOEFL-iBT-Exam-Vocabulary-List-of-1700-words.pdf)
-7. [Environment related vocabs](https://www.youtube.com/watch?v=b2G6fvX4ZKM)
-8. [TOEFL vocabs with pronunciations](https://www.youtube.com/watch?v=POzmFgERec8)
-9. [TOEFL advanced vocabs](https://www.youtube.com/watch?v=SYH213RXWzQ)
-10. [Talking about foods](https://www.youtube.com/watch?v=50syDdhrVPc&t=96s)
+1. [Academic word lists](https://www.eapfoundation.com/enrich/environment/)😍
+2. [Advanced vocabulary](https://www.youtube.com/watch?v=uLN6IdRtDhg)🙃
+3. [Crashcourses](https://www.youtube.com/watch?v=9PFhrpyWV-w)😜
+4. [TPO vocabs](https://app.memrise.com/course/1328190/tpo-words-1-54-with-audio/)😏
+5. [Comple word list toefl](https://www.prepscholar.com/toefl/blog/wp-content/uploads/sites/13/2017/08/TOEFL-Vocab-Word-List.pdf)😌
+6. [Advanced TOEFL wordlists](http://bettertoeflscores.com/bettertoeflscores.com/wp-content/uploads/2020/02/TOEFL-iBT-Exam-Vocabulary-List-of-1700-words.pdf)🤗
+7. [Environment related vocabs](https://www.youtube.com/watch?v=b2G6fvX4ZKM)😋
+8. [TOEFL vocabs with pronunciations](https://www.youtube.com/watch?v=POzmFgERec8)🤭
+9. [TOEFL advanced vocabs](https://www.youtube.com/watch?v=SYH213RXWzQ)😲
+10. [Talking about foods](https://www.youtube.com/watch?v=50syDdhrVPc&t=96s)😬
 11. [504 essential words](
-https://m.youtube.com/watch?v=A_TODJJzTxs&list=PL7GBaeXMzwSee1o519mG7GrXSKtqc7nop&index=7)
+https://m.youtube.com/watch?v=A_TODJJzTxs&list=PL7GBaeXMzwSee1o519mG7GrXSKtqc7nop&index=7)🥳
 12. [Essential words for TOEFL](https://www.youtube.com/watch?v=QT9AXqKMlWs) 💪
 
 
