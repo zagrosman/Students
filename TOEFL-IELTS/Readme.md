@@ -78,3 +78,5 @@ After checking the above-mentioned links, and attached files in this rep, you wi
 2. [BBC podcasts](https://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads)
 3. [National Geography podcasts](https://player.fm/podcasts/National-Geographic)
 4. [Ted talks](https://www.ted.com/talks)
+5. [Oceans (Full Episode) | Hostile Planet](https://www.youtube.com/watch?v=szg3dIZ8xDc) : National Geographic documentries. Duration: 00:47:10
+6. 
