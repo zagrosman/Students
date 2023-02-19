@@ -18,5 +18,5 @@ It's important to note that Gaussian is a powerful and complex software, so it m
 
 
 
-[Gaussian software](https://gaussian.com/)
+👉🏻 [Gaussian software developer link](https://gaussian.com/)
 
