@@ -1,5 +1,7 @@
 # How to run Gaussian software:
 
+![image](https://user-images.githubusercontent.com/17006122/219967063-dc229de9-4908-4996-93b8-d29af5aa001b.png)
+
 To run the Gaussian software, you will need to follow these steps:
 
 1. Install the Gaussian software on your computer. You can download the installer from the Gaussian website and follow the instructions provided to install it.
