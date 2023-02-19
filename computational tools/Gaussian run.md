@@ -10,12 +10,13 @@ To run the Gaussian software, you will need to follow these steps:
 
 4. Run the Gaussian calculation. To do this, type "g16 inputfile.com" in the terminal, where "inputfile.com" is the name of your input file. This will start the Gaussian calculation.
 
-Wait for the calculation to complete. Gaussian calculations can take a significant amount of time to complete, depending on the complexity of the calculation and the resources available on your computer.
+5. Wait for the calculation to complete. Gaussian calculations can take a significant amount of time to complete, depending on the complexity of the calculation and the resources available on your computer.
 
-Analyze the results. Once the calculation is complete, Gaussian will generate output files that contain the results of your calculation. You can analyze these files using a text editor or specialized software.
+6. Analyze the results. Once the calculation is complete, Gaussian will generate output files that contain the results of your calculation. You can analyze these files using a text editor or specialized software.
 
 It's important to note that Gaussian is a powerful and complex software, so it may take some time to learn how to use it effectively. There are many resources available online, including tutorials and documentation, that can help you get started.
 
 
 
+[Gaussian software](https://gaussian.com/)
 
