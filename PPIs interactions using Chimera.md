@@ -1,4 +1,5 @@
 ## Visualizing protein-protein interactions using UCSF Chimera
+Rasouli. H
 1. Go to UCSF Chimera homepage and download the favorable source codes (https://www.cgl.ucsf.edu/chimera/download.html)
 2. Install UCSF Chimera.
 3. Extract the pdb complex from Gromacs trajectory files.
